@@ -5,6 +5,7 @@
 - [Objectives](#objectives)
 - [Transport layer](#transport-layer)
 - [Interests](#interests)
+- [License](#license)
 
 # Introduction
 
@@ -24,3 +25,10 @@ Rhizome uses QUIC as its primary transport protocol, with TCP/TLS as a fallback,
 Unlike traditional HPC fabrics optimized for tightly coupled, static environments, or centralized cloud platforms that rely on global schedulers and brokers, Rhizome is intentionally designed for open, adaptive, and failure-prone networks. It does not attempt to optimize numerical kernels or replace high-performance interconnects; instead, it focuses on enabling coordination, orchestration, and communication across independently owned and operated machines at planetary scale.  
 
 By providing a neutral, brokerless communication layer, Rhizome allows higher-level systems (such as decentralized schedulers, compute marketplaces, volunteer networks, or distributed machine learning frameworks) to be built without embedding assumptions about topology, trust, or lifecycle into the communication fabric itself.
+
+# License
+
+This project is fully open source and distributed under the Apache License 2.0.  
+It is designed to be freely accessible and reusable by anyone (individuals, organizations, or companies) for any purpose, including commercial use.  
+By choosing the Apache License 2.0, this project aims to remove barriers to adoption while ensuring transparency, long-term sustainability, and legal clarity.  
+Open collaboration is at the heart of this initiative, and all contributions are welcome.
