@@ -1,5 +1,10 @@
-# rhizome
-A decentralized communication substrate that decouples application interactions from physical topology by providing logical addressing, dynamic peer discovery, and asynchronous message exchange, enabling higher-level communication patterns without centralized brokers or runtime-level coupling.
+# Table of content
+
+- [Table of content](#table-of-content)
+- [Introduction](#introduction)
+- [Objectives](#objectives)
+- [Transport layer](#transport-layer)
+- [Interests](#interests)
 
 # Introduction
 
